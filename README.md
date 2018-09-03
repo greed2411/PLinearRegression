@@ -5,8 +5,7 @@ Scikit-Learn's linear regression extended with p-values.
 
 People from [R](https://www.r-project.org/) background are familiar with [hypothesis testing](https://en.wikipedia.org/wiki/Statistical_hypothesis_testing) and [p-values](https://en.wikipedia.org/wiki/P-value) whereas ones from Python's [scikit-learn](http://scikit-learn.org/) background haven't heard of them. That's why I just made this script, which is an extension of scikit-learn's [LinearRegression](http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html), it can also be extended to Lasso and Ridge regressions respectively.
 
-critiques and comments are always welcome.
-
+## Demo
 
 A quick example:
 
@@ -36,3 +35,5 @@ Output for the diabetes dataset from sklearn looks like this:
 ```
 
 There's also a [demo.ipynb](https://github.com/greed2411/PLinearRegression/blob/master/demo.ipynb) along with this repository for demonstration purposes.
+
+critiques, comments and suggestions are always welcome.
